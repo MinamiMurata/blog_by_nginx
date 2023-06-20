@@ -1,1 +1,1 @@
-web: blog_by_nginx
+web: bin/start-nginx <backend server command>
